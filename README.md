@@ -27,7 +27,7 @@ O objetivo principal é servir como material de estudo e prática no framework, 
 
 ## ⚙️ Como Rodar o Projeto
 
-1. Clone o repositório: git clone () cd nome-do-repo
+1. Clone o repositório: git clone (https://github.com/oTalDoMagalas/Pichau__Laravel) cd nome-do-repo
 2. Instale as dependências: composer install npm install && npm run dev
 3. Configure o arquivo .env: cp .env.example .env
 
